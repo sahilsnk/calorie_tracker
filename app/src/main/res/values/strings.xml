@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">calorie tracker</string>
+    <string name="textview">TextView</string>
+
+    <!-- Food items -->
+    <string-array name="food">
+        <item>apple 52/100gms</item>
+        <item>orange 47/100gms</item>
+        <item>eggs 55/100gms</item>
+        <item>chicken 39/100gms</item>
+        <item>daal</item>
+    </string-array>
+
+    <!-- Calorie values per gram for each food item -->
+    <integer-array name="calories_per_gram">
+        <item>52</item> <!-- apple -->
+        <item>47</item> <!-- orange -->
+        <item>55</item> <!-- eggs -->
+        <item>39</item> <!-- chicken -->
+        <item>52</item> <!-- daal -->
+    </integer-array>
+</resources>
